@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "nombre": "MARIANAS",
+      "sector": "QUITO",
+      "salida": "LABRADOR",
+      "llegada": "MARIANAS",
+      "maquinista": "Hernesto Perugachi",
+      "detalles": "Demo_MARIANAS",
+      "id": "b51588d0-2397-441f-b1a4-2f05b9783168"
+    },
+    {
+      "nombre": "NORTE",
+      "sector": "QUITO-IBARRA",
+      "salida": "QUITO",
+      "llegada": "IBARRA",
+      "maquinista": "José Alfredo",
+      "detalles": "DEMO_NORTE",
+      "id": "43597b6e-92f6-4f14-b88a-66460298a88b"
+    },
+    {
+      "nombre": "CAROLINA",
+      "sector": "LABRADOR-UCE",
+      "salida": "LABRADOR",
+      "llegada": "UNIVERSIDAD CENTRAL",
+      "maquinista": "Dilan Flores",
+      "detalles": "RUTA LARGA",
+      "id": "4cf5bdb3-18a3-49e9-95dd-9d203457d344"
+    }
+  ]
+}
